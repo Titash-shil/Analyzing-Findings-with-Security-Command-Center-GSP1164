@@ -97,7 +97,7 @@ bq query --apilog=/dev/null --use_legacy_sql=false  \
 "SELECT finding_id,event_time,finding.category FROM continuous_export_dataset.findings"
 ```
 
-* NOW FOLLOW [VIDEO'S](https://youtu.be/bJmehGefeek) INSTRUCTIONS
+* NOW FOLLOW [VIDEO'S](https://youtu.be/M6IvBq4JfbA?si=yLt13OpM55dtq7pq) INSTRUCTIONS
 
 * Got to `Create a bucket` from [here](https://console.cloud.google.com/storage/create-bucket)
 
